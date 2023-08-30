@@ -1,2 +1,2 @@
 # BREAST-CANCER-CLASSIFICATION
-This a basic project for learning Machine Learning Algorithm.
+This a basic project for learning Machine Learning Algorithms. I have used RandomForestClassifier algorithm to find whether the breast cancer is malignant or benigin.Here I have used text dataset for classification.This breast cancer classification can also be done with the image dataset with the help of python libraries like opencv and other machine learning algorithm. We have also created a basic webpage using html,css and Java script. The backend and frontend linking is done with flask.
